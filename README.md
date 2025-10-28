@@ -1,9 +1,20 @@
 # 💫 About Me:
-⚡ Fun fact Expert in crafting dynamic web solutions 💻 | Pythonista 🐍 with a penchant for clean, efficient code | Merging creativity with functionality in UI/UX design 🎨✨ | Committed to pushing boundaries and elevating digital experiences to new heights 🔥 | Let's collaborate on projects that resonate and inspire innovation! 🚀 | #WebDevelopment #PythonDev #UIUXDesign #InnovationInCode
+Hi — I’m Haleem 👋
+
+Software Engineer · Backend & Data-driven systems (Python, Django, AI/ML)
+
+I build product-focused backend systems and practical ML-powered features that help teams ship reliable product experiences — from multi-vendor marketplaces and payment flows to crowdfunding platforms and predictive prototypes.
+
+#🛠️ Tech & Tools
+
+Languages / Frameworks: Python, Django, Django REST Framework, JavaScript, React (integration)
+Databases: SQLite, PostgreSQL , SQL
+AI / Data: pandas, numpy, scikit-learn (feature engineering, model prototyping, evaluation)
+Frontend / Styling: Bootstrap, HTML/CSS, AJAX, React js 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@haleemakintayo01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/haleemakintayo) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@haleemakintayo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/haleemakintayo) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) 
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
