@@ -7,10 +7,10 @@ I build product-focused backend systems and practical ML-powered features that h
 
 #🛠️ Tech & Tools
 
-Languages / Frameworks: Python, Django, Django REST Framework, JavaScript, React (integration)
+Languages / Frameworks: Python, Django, Django REST Framework, JavaScript, React
 Databases: SQLite, PostgreSQL , SQL
 AI / Data: pandas, numpy, scikit-learn (feature engineering, model prototyping, evaluation)
-Frontend / Styling: Bootstrap, HTML/CSS, AJAX, React js 
+Frontend / Styling: Bootstrap, HTML/CSS, AJAX, React js ,Tailwind 
 
 
 ## 🌐 Socials:
