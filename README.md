@@ -1,15 +1,15 @@
 # 💫 About Me:
 Hi — I’m Haleem 👋
 
-Software Engineer · Backend & Data-driven systems (Python, Django, AI/ML)
+Software Engineer
+Currently Learning AI/ML 
 
-I build product-focused backend systems and practical ML-powered features that help teams ship reliable product experiences — from multi-vendor marketplaces and payment flows to crowdfunding platforms and predictive prototypes.
 
 #🛠️ Tech & Tools
 
-Languages / Frameworks: Python, Django, Django REST Framework, JavaScript, React
+Languages / Frameworks: Python, Django,FastAPI, Django REST Framework, JavaScript, React, Typescript
 Databases: SQLite, PostgreSQL , SQL
-AI / Data: pandas, numpy, scikit-learn (feature engineering, model prototyping, evaluation)
+AI / Data: pandas, numpy, scikit-learn 
 Frontend / Styling: Bootstrap, HTML/CSS, AJAX, React js ,Tailwind 
 
 
