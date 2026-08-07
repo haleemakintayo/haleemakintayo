@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi — I’m Haleem 👋
+Hi — I’m Haleem Akintayo 👋
 
 Software Engineer
 Currently Learning AI/ML 
